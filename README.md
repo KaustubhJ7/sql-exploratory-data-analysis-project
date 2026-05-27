@@ -3,7 +3,7 @@
 Leveraged advanced SQL techniques (CTEs, Window Functions) to perform exploratory data analysis and identifying key trends
 
 ## 📌 Project Overview
-This repository contains an end-to-end Exploratory Data Analysis (EDA) project executed entirely in SQL. The objective is to dive deep into a raw business dataset—analyzing areas such as [e.g., retail sales, customer behavior, or user engagement]—to extract actionable trends, identify operational anomalies, and deliver data-driven insights.
+This repository contains an end-to-end Exploratory Data Analysis (EDA) project executed entirely in SQL. The objective is to dive deep into a raw business dataset analyzing areas such as retail sales, customer behavior, or user engagement to extract actionable trends, identify operational anomalies, and deliver data-driven insights.
 
 By querying structural patterns and trends directly from the database, this project aims to bridge the gap between messy, unstructured relational tables and strategic business decisions.
 
